@@ -2,7 +2,7 @@
 
 This project is a simple implementation of a Convolutional Neural Network (CNN) trained on the MNIST dataset to recognize handwritten digits. A graphical user interface (GUI) allows users to draw a digit, and the model predicts the digit along with the confidence of the prediction.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/HARIPRASADS-01/digit-recognition)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/joelmoncey/digit-recognition)
 
 ## Table of Contents
 - [Introduction](#introduction)
