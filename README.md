@@ -144,7 +144,7 @@ Metrics per class:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/HARIPRASADS-01/digit-recognition.git
+    git clone https://github.com/joelmoncey/digit-recognition.git
     ```
 
 2. Install the required dependencies:
