@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+keras>=2.8.0
+numpy
+matplotlib
+scikit-learn
+Pillow
+visualkeras
+tkinter
+PIL 
